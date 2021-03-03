@@ -1,3 +1,4 @@
+# General Info
 Python script to send personalized mails to various contacts.
 
 # How it works:
