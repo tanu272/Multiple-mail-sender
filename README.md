@@ -1,6 +1,6 @@
 Python script to send personalized mails to various contacts.
 
-How it works:
+##How it works:
     1.Download the files.
     2.Create a CSVfile in the same directory with all mails-ids and personalised parts of the mail body for each recipient.  
     3.Create a virtual environment using the following command
