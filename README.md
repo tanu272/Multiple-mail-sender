@@ -1,12 +1,12 @@
 Python script to send personalized mails to various contacts.
 
-##How it works:
+# How it works:
     1.Download the files.
     2.Create a CSVfile in the same directory with all mails-ids and personalised parts of the mail body for each recipient.  
     3.Create a virtual environment using the following command
-       pythom3 -m venv env
+       $ pythom3 -m venv env
     3. Activate the virtual environment
-        source env/bin/activate
+        $ source env/bin/activate
     4. install dotenv
         python3.8 -m pip install python-dotenv
     5. run the python file mail.py.
